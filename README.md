@@ -1,10 +1,10 @@
 # Клиентская часть приложения на React JS вывода геолокаций на Яндекс.Карты
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+В данном проекте использована готовая библиотека для работы с яндекс картами  [react-yandex-maps v4.5.0](https://react-yandex-maps.now.sh/).
 
 ## Available Scripts
 
-In the project directory, you can run:
+Для запуска проекта на локальной машине в дирректории проекта 
 
 ### `npm start`
 
