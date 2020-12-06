@@ -8,9 +8,6 @@
 
 ### `npm start`
 
-Откройте [http://localhost:3000](http://localhost:3000) для прос.
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
-
 ## Сборка docker образа
 Для сборки контейнера перейдите в дирректорию проекта
 ### `docker build -t CONTAINER_NAME ./`
